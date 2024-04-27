@@ -1,0 +1,46 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+             http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
+             version="2.1">
+
+    <persistence-unit name="insta">
+        <description>
+            Persistence unit for Hibernate User Guide
+        </description>
+
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <class>com.muhammet.entity.Comment</class>
+        <class>com.muhammet.entity.Follow</class>
+        <class>com.muhammet.entity.Like</class>
+        <class>com.muhammet.entity.Post</class>
+        <class>com.muhammet.entity.User</class>
+        <class>com.muhammet.entity.UserProfile</class>
+
+        <properties>
+            <property name="jakarta.persistence.jdbc.driver"
+                      value="org.postgresql.Driver" />
+
+            <property name="jakarta.persistence.jdbc.url"
+                      value="jdbc:postgresql://localhost:5444/InstagramDB" />
+
+            <property name="jakarta.persistence.jdbc.user"
+                      value="postgres" />
+
+            <property name="jakarta.persistence.jdbc.password"
+                      value="root" />
+
+            <property name="hibernate.show_sql"
+                      value="true" />
+
+            <property name="hibernate.hbm2ddl.auto"
+                      value="update" />
+             <!--create,update,create-drop -->
+        </properties>
+
+    </persistence-unit>
+
+
+
+</persistence>
