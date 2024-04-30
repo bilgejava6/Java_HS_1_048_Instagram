@@ -15,12 +15,12 @@ public class RunnerRepos {
 //                        .userid(2L)
 //                .build());
         LikeRespository likeRespository = new LikeRespository();
-        likeRespository.save(Like.builder()
-                        .date(System.currentTimeMillis())
-                        .islike(true)
-                        .postid(2L)
-                        .repeated(false)
-                        .userid(3L)
-                .build());
+//        likeRespository.save(Like.builder()
+//                        .date(System.currentTimeMillis())
+//                        .islike(true)
+//                        .postid(2L)
+//                        .repeated(false)
+//                        .userid(3L)
+//                .build());
     }
 }

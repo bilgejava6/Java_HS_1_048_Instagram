@@ -33,9 +33,13 @@ q
 Asrc/main/java/com/muhammet/repository/UserProfileRespository.java,8/d/8d72a4b5c7788b6d3e0d2f2392aa69e1e59fc85f
 ]
 -src/main/java/com/muhammet/utility/ICrud.java,d/a/da4937d40293523f4c20047d64e7e94cb6334e59
-c
-3src/main/java/com/muhammet/utility/Respository.java,1/7/1799f81991a508cd340fbc4e29575a1435067571
 b
 2src/main/java/com/muhammet/utility/Repository.java,2/6/26954ba09a0167aad1e307238a544b3c3096e6f1
 [
 +src/main/java/com/muhammet/RunnerRepos.java,3/a/3a7434a969960f1c2e98b96063d99a7bbd52c92f
+e
+5src/main/java/com/muhammet/Runner_RepositoryTest.java,3/c/3c945a65c9031c8441cdc83e0b2fcac72d17842c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0

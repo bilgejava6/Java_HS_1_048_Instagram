@@ -1,0 +1,7 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".( ¼œ•8’Ãó1
+R
+java:S1128"5Remove this unused import 'com.muhammet.entity.Like'.(ÅÏ£ò8‘’Ãó1
+Y
+java:S1128"<Remove this unused import 'com.muhammet.utility.Repository'.(ÊÿÍ¥8‘’Ãó1

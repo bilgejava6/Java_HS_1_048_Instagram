@@ -1,7 +1,14 @@
 
+e
+java:S1854"CRemove this useless assignment to local variable "likeRespository".(ßÜÂÁşÿÿÿÿ8ËÅÌó1
 ]	java:S125
 "<This block of commented-out lines of code should be removed.(Û‰ı™ÿÿÿÿÿ8º‰Ëöñ1
+V
+java:S1481"4Remove this unused "likeRespository" local variable.(ßÜÂÁşÿÿÿÿ8ÌÅÌó1
+X	java:S125"<This block of commented-out lines of code should be removed.(¦…Í°8ÌÅÌó1
 Z
 java:S1128"8Remove this unused import 'com.muhammet.entity.Comment'.(†•¸²ÿÿÿÿÿ8ÀğÎöñ1
+R
+java:S1128"5Remove this unused import 'com.muhammet.entity.Like'.(ÅÏ£ò8ÌÅÌó1
 i
 java:S1128"GRemove this unused import 'com.muhammet.repository.CommentRespository'.(Šì‘—ıÿÿÿÿ8ÁğÎöñ1

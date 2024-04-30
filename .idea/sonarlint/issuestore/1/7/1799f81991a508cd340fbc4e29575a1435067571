@@ -1,7 +1,0 @@
-
-
-java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ν†ύΐ8ƒ—φρ1
-e	java:S119
-"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µή»8„—φρ1
-B
-java:S1068"%Remove this unused "t" private field.(ή•ªΖ8‡—φρ1
