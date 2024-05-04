@@ -45,3 +45,10 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 o
 ?src/main/java/com/muhammet/criteriaQuery/CriteriaOrnekleri.java,3/3/33c264297b402b6b8025c04a817d1befa7e11e06
+]
+-src/main/java/com/muhammet/RunneOptional.java,0/7/07b27fff2a77e5808a9282fb373e9ecde707b812
+^
+.src/main/java/com/muhammet/view/VwComment.java,b/5/b5d8975d6c4f1b9d765bd243ce39e8999216de03
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
