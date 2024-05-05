@@ -39,6 +39,10 @@ public class Repository<T,ID> implements ICrud<T,ID>{
         em.close();
     }
 
+    public void openEnitityManager(){
+        em = emf.createEntityManager();
+    }
+
     @Override
     public T save(T entity) {
         openSession();
