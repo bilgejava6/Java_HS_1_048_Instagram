@@ -7,7 +7,9 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-
+@NamedQueries({
+        @NamedQuery(name = "User.isExist",query = "select count(u)>0 from User u where u.username= :userName")
+})
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor

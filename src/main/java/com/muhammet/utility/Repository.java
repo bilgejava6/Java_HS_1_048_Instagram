@@ -8,12 +8,14 @@ import jakarta.persistence.criteria.CriteriaBuilder;
 import jakarta.persistence.criteria.CriteriaQuery;
 import jakarta.persistence.criteria.Predicate;
 import jakarta.persistence.criteria.Root;
+import lombok.Getter;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+@Getter
 public class Repository<T,ID> implements ICrud<T,ID>{
     private final EntityManagerFactory emf;
     private EntityManager em;

@@ -1,6 +1,6 @@
 
-j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¯Ö®Åøÿÿÿÿ8–Ä¡ó1
-]	java:S125~"<This block of commented-out lines of code should be removed.(ÈÛÑÄøÿÿÿÿ8œÄ¡ó1
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¯Ö®Åøÿÿÿÿ8–Ä¡ó1
+^	java:S125€"<This block of commented-out lines of code should be removed.(ÈÛÑÄøÿÿÿÿ8œÄ¡ó1
 O
-java:S3011³",This accessibility update should be removed.(ê¥ÍÔıÿÿÿÿ8Ä¡ó1
-M	java:S106Â"+Replace this use of System.out by a logger.(´°áŒüÿÿÿÿ8İÅ¢ó1
+java:S3011µ",This accessibility update should be removed.(ê¥ÍÔıÿÿÿÿ8Ä¡ó1
+M	java:S106Ä"+Replace this use of System.out by a logger.(´°áŒüÿÿÿÿ8İÅ¢ó1

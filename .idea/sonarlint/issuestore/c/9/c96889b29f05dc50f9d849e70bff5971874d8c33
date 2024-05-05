@@ -1,3 +1,5 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(»ì‚ë8ÔËÜóñ1
+P
+java:S1068"3Remove this unused "criteriaBuilder" private field.(Áïüœ8© —ô1
+I
+java:S1144"-Remove this unused private "rollBack" method.(Ø~8© —ô1
